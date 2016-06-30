@@ -10,7 +10,7 @@ It's a collection of plugins and tips for all kind of developers build your own 
 
 ## Themes
 
-* <a href="https://github.com/equinusocio/material-theme" target="_blank">Material Theme</a>: install package > material theme.
+* [Material Theme](https://github.com/equinusocio/material-theme): install package > material theme.
 	- After go to 'Preferences > Settings User' and paste 
     ```
     "theme": "Material-Theme.sublime-theme",
