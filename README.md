@@ -22,8 +22,8 @@ After go to **'Preferences > Settings User'** and paste
 
 ## What developer?
 
-- [Frontend](front-end.md)
-- [Back end](back-end.md)
+- [Front  end](front-end.md)
+- [Back  end](back-end.md)
 
 ## Basic Plugins
 * Emmet
