@@ -32,7 +32,8 @@ After go to **'Preferences > Settings User'** and paste
 
 
 ## Essential Plugins
-* Emmet
+* [Emmet](https://github.com/emmetio/emmet)
+* [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 
 
 ### Send a pull request with your list \o
