@@ -10,18 +10,19 @@ It's a collection of plugins and tips for all kind of developers build your own 
 
 ## Themes
 
-* [Material Theme](https://github.com/equinusocio/material-theme): install package > material theme.
-	- After go to 'Preferences > Settings User' and paste 
+* [Material Theme](https://github.com/equinusocio/material-theme): install package > material theme. After go to **'Preferences > Settings User'** and paste 
     ```
     "theme": "Material-Theme.sublime-theme",
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
     ```
 
 
-## Developer:
+## What developer?
 
 - [Frontend](front-end.md)
 - [Back end](back-end.md)
 
 ## Basic Plugins
 * Emmet
+
+## Send a pull request with your list \o
