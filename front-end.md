@@ -1,4 +1,4 @@
-# Front End
+# Best Front End Sublime Text Plugins
 
 * AlignTab
 * AutoFileName
