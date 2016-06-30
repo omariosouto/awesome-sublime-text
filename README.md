@@ -19,10 +19,10 @@ It's a collection of plugins and tips for all kind of developers build your own 
 
 After go to **'Preferences > Settings User'** and paste 
 
-    `
-    "theme": "Material-Theme.sublime-theme",
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-    `
+```
+"theme": "Material-Theme.sublime-theme",
+"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+```
 
 
 ## What kind of developer you are?
