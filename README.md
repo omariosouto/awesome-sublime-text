@@ -20,12 +20,12 @@ After go to **'Preferences > Settings User'** and paste
     ```
 
 
-## What developer?
+## What kind of developer you are?
 
 - [Front  end](front-end.md)
 - [Back  end](back-end.md)
 
-## Basic Plugins
+## Essential Plugins
 * Emmet
 
 ## Send a pull request with your list \o
