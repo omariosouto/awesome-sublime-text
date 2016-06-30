@@ -2,35 +2,26 @@
 It's a collection of plugins and tips for all kind of developers build your own pack.
 
 # Sublime Initial Config
-* Package Control: Copy the text from 'https://packagecontrol.io/installation' and paste in the console 'view > show console' (after it restart the program)
-* Show Sidebar: view > sidebar > showsidebar 
+* First of all download the [program here!](https://www.sublimetext.com/3) and after install it;
+* Package Control: Copy the text from here <https://packagecontrol.io/installation> and paste in the console;
+> For open the console you need to follow this: At the top of the window 'view > show console' (after it close and open the program);
+* Show Sidebar: view > sidebar > showsidebar.
+> Sidebar it's very nice to manage so many projects by an easy way and it's a good option for navigate at folders
 
 ## Themes
 
-* Material Theme: install package > material theme. After go to 'Preferences > Settings User' and paste 
+* [Material Theme](https://github.com/equinusocio/material-theme): install package > material theme.
+	- After go to 'Preferences > Settings User' and paste 
+    ```
     "theme": "Material-Theme.sublime-theme",
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    ```
 
-## Front-End
 
-* AlignTab
-* AutoFileName
-* Autoprefixer (auto prefix CSS)
-* Bracket Highlighter
-* ColorHighlighter
-* ColorSublime
-* ColorSublime - Themes
-* Compass
-* EditorConfig
+## Developer:
+
+- [Frontend](front-end.md)
+- [Back end](back-end.md)
+
+## Basic Plugins
 * Emmet
-* FilterLines
-* Git
-* GitGutter
-* GitIgnore
-* Gulp: Set Key Binding (Preferences > Key Bindings - User) { "keys": ["ctrl+alt+g"], "command": "gulp", "args": { "task_name": "default" } }		
-* HTMLAttributes (Complete html atributtes)
-* JavaScript Completions
-* Sass and Sass Snippets
-* SCSS and SCSS Snippets
-* SFTP
-* SublimeOnSaveBuild
