@@ -27,12 +27,12 @@
 
 ### Goto on right-click
 
-Create a file named "`Default (Linux).sublime-mousemap`" at `Packages/User/` folder. Change **Linux** to your SO (Windows|Linux|OS X), if necessary.
+Create a file named "`Default (Linux).sublime-mousemap`" at `Packages/User/` folder. Change **Linux** to your OS (Windows|Linux|OS X), if necessary.
 
 Using your editor, put this configuration:
 
 ```json
-  [
+[
     {
         "button": "button2",
         "count": 1,
