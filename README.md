@@ -32,6 +32,7 @@ After go to **'Preferences > Settings User'** and paste
 
 
 ## Essential Plugins
+* [TabNine](https://github.com/codota/tabnine-sublime)
 * [Emmet](https://github.com/emmetio/emmet)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 
